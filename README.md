@@ -1,9 +1,9 @@
 # Mobile Web Application
 
 An Internship assignment web application to be developed for Greendzine
-# Procedure
-Default email:user
-Default password:password
+# Note
+ 1. Default e-mail:user
+ 2. Default password:password
 
 
 # Procedure
